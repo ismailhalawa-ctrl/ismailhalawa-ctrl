@@ -1,4 +1,4 @@
-🛸 Hello friend!
+Hello friend!
 
 I am Ismail Halawa, a Data Science graduate from Jordan University of Science and Technology (JUST).
 
@@ -11,4 +11,4 @@ Working on projects like YouTube comment sentiment analysis helped me understand
 At the moment, I’m focusing on improving my skills in Data Science, Machine Learning, and AI applications, and learning how to integrate AI into real-world systems and applications.
 
 📫 You can find me here:
-Instagram: :https://www.instagram.com/ismail_halawa04
+Instagram: : https://www.instagram.com/ismail_halawa04
