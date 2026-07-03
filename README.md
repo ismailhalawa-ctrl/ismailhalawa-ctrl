@@ -1,16 +1,16 @@
-## Hi there 👋
+🛸 Hello friend!
 
-<!--
-**ismailhalawa-ctrl/ismailhalawa-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ismail Halawa, a Data Science graduate from Jordan University of Science and Technology (JUST).
 
-Here are some ideas to get you started:
+During my studies and projects, I discovered my passion for turning data into meaningful insights and building real-world AI solutions. I have been working on improving my skills in data analysis, machine learning, and natural language processing through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on projects like YouTube comment sentiment analysis helped me understand how powerful data can be when combined with AI.
+
+🪐 What I’m focusing on:
+
+At the moment, I’m focusing on improving my skills in Data Science, Machine Learning, and AI applications, and learning how to integrate AI into real-world systems and applications.
+
+🚀 Always improving 🚀
+
+📫 You can find me here:
+Instagram: :contentReference[oaicite:0]{index=0}
