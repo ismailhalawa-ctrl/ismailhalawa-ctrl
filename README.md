@@ -8,4 +8,5 @@
 
 💡 Ask me about Data Analysis, Machine Learning, and NLP
 
-📬 Reach me on Instagram: :contentReference[oaicite:1]{index=1}
+📬 My Instagram: https://www.instagram.com/ismail_halawa04
+---
