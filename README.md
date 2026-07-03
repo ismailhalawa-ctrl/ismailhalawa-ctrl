@@ -10,7 +10,5 @@ Working on projects like YouTube comment sentiment analysis helped me understand
 
 At the moment, I’m focusing on improving my skills in Data Science, Machine Learning, and AI applications, and learning how to integrate AI into real-world systems and applications.
 
-🚀 Always improving 🚀
-
 📫 You can find me here:
-Instagram: :contentReference[oaicite:0]{index=0}
+Instagram: :https://www.instagram.com/ismail_halawa04
