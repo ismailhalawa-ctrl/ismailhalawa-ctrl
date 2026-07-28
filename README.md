@@ -1,12 +1,15 @@
-✨ Hey there! I'm Ismail Halawa
+# ✨ Ismail Halawa
+*Data Science Graduate @ JUST | ML & AI Developer*
 
-🎓 Data Science graduate from Jordan University of Science and Technology (JUST)
+---
 
-🚀 Currently focusing on improving my skills in Machine Learning, Data Science, and AI-driven applications
+### 📌 Quick Overview
+* 🎓 **Graduate** in Data Science from **Jordan University of Science and Technology (JUST)**.
+* 🚀 **Specialization:** Machine Learning, Natural Language Processing (NLP), and End-to-End AI Pipelines.
+* 🤝 **Open For:** Real-world AI/Data Engineering collaborations & impactful projects.
+* 💡 **Ask me about:** Data Analysis, Predictive Modeling, NLP, and Data Pipelines.
 
-🤝 Open to collaborating on real-world data and AI projects
+---
 
-💡 Ask me about Data Analysis, Machine Learning, and NLP
-
-📬 My Instagram: https://www.instagram.com/ismail_halawa04
-
+### 📬 Let's Connect
+[![Instagram](https://img.shields.io/badge/Instagram-ismail__halawa04-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/ismail_halawa04)
