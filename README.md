@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner-v2.svg" alt="Ismail Halawa — Applied AI, Machine Learning and NLP" width="100%" />
+  <img src="./profile-banner-v3.svg" alt="Ismail Halawa — Artificial Intelligence and Data Science" width="100%" />
 </p>
 
 <p align="center">
