@@ -12,42 +12,54 @@
 
 ---
 
-### About me
+### ✦ About me
 
-I'm a **Data Science graduate from Jordan University of Science and Technology** focused on applied AI, machine learning, and natural language processing. I enjoy building systems that connect data preparation, model inference, and clear results people can act on.
+I'm **Ismail Halawa**, a Data Science graduate from **Jordan University of Science and Technology**. I build AI applications that turn unstructured text and data into findings people can explore, verify, and use.
 
-- **Current focus:** multilingual NLP, sentiment analysis, and retrieval-augmented applications.
-- **Currently building:** **InsightForge AI**, a private project in development that analyzes feedback from multiple sources and presents findings with supporting evidence.
-- **Open to:** Junior AI Engineer, Junior ML Engineer, and related applied AI roles.
+- **Focus:** applied AI, multilingual NLP, machine learning, and retrieval-augmented systems.
+- **Approach:** connect data preparation, pretrained models, and clear, evidence-linked results.
+- **Opportunities:** Junior AI Engineer, Junior ML Engineer, and related roles.
 
-### Selected projects
+### ◈ Featured project · InsightForge AI
 
-**InsightForge AI · Private, in development**  
-A multi-source AI platform that transforms comments, files, repository content, and webpages into structured insights with traceable evidence. It combines multilingual sentiment analysis with a retrieval-augmented assistant that grounds answers in the analyzed data.  
-`Python` `Transformers` `RAG` `FastAPI` `PostgreSQL`
+**Private repository · In development**
 
-**[SentimentPro →](https://github.com/ismailhalawa-ctrl/SentimentPro-youtube)**  
-YouTube comment analysis for sentiment and audience insights, with a RAG chat over analyzed feedback.  
-`Python` `Transformers` `NLP` `RAG`
+InsightForge AI brings scattered feedback and content into one analysis workflow. It turns comments, documents, repository content, and webpages into structured insights with supporting evidence.
 
-**[YouTube Sentiment Analyzer →](https://github.com/ismailhalawa-ctrl/YouTube-Sentiment-Analyzer)**  
+- **Multiple inputs:** YouTube comments, GitHub repository content, CSV/XLSX/JSON files, pasted text, and webpages.
+- **AI analysis:** source-specific workflows, background analysis jobs, and pretrained multilingual models for sentiment analysis.
+- **Grounded answers:** a retrieval-augmented assistant that searches selected analyses and validates citations against retrieved evidence.
+
+`Python` · `FastAPI` · `PostgreSQL` · `Transformers` · `RAG`
+
+### ▣ Selected public projects
+
+**[SentimentPro ↗](https://github.com/ismailhalawa-ctrl/SentimentPro-youtube)**  
+Analyzes YouTube comments to surface sentiment and audience insights. Includes a RAG chat over analyzed feedback.  
+`Python` · `Transformers` · `NLP` · `RAG`
+
+**[YouTube Sentiment Analyzer ↗](https://github.com/ismailhalawa-ctrl/YouTube-Sentiment-Analyzer)**  
 An earlier Streamlit prototype for multilingual comment analysis using MARBERT and RoBERTa.  
-`Python` `Streamlit` `SQL Server`
+`Python` · `Streamlit` · `SQL Server`
 
-**[Credit Card Fraud Detection →](https://github.com/ismailhalawa-ctrl/Credit-Card-Froud-Detection)**  
-Anomaly detection on imbalanced transaction data with clustering and outlier methods.  
-`Python` `scikit-learn` `PCA`
+**[Credit Card Fraud Detection ↗](https://github.com/ismailhalawa-ctrl/Credit-Card-Froud-Detection)**  
+Explores anomaly detection on imbalanced transaction data with clustering and outlier methods.  
+`Python` · `scikit-learn` · `PCA`
 
-**[Mall Customer Analysis →](https://github.com/ismailhalawa-ctrl/Mall-Customer-Analysis)**  
-Customer segmentation using clustering and dimensionality reduction.  
-`Python` `K-Means` `DBSCAN`
+**[Mall Customer Analysis ↗](https://github.com/ismailhalawa-ctrl/Mall-Customer-Analysis)**  
+Segments customers using clustering and dimensionality reduction to explore spending patterns.  
+`Python` · `K-Means` · `DBSCAN`
 
-<p align="center"><a href="https://github.com/ismailhalawa-ctrl?tab=repositories"><strong>View all public repositories →</strong></a></p>
+**[Explore all public repositories ↗](https://github.com/ismailhalawa-ctrl?tab=repositories)**
 
-### Tools I work with
+### ⌘ Skills & tools
 
-`Python` · `SQL` · `PyTorch` · `scikit-learn` · `Hugging Face Transformers` · `pandas` · `NumPy` · `Jupyter` · `FastAPI` · `PostgreSQL`
+| Area | Tools and methods |
+| --- | --- |
+| AI & NLP | PyTorch, Hugging Face Transformers, multilingual sentiment analysis, RAG |
+| Data & ML | Python, SQL, pandas, NumPy, scikit-learn, Jupyter |
+| Application development | FastAPI, PostgreSQL |
 
 ---
 
-<p align="center">Interested in applied AI work? <a href="https://www.linkedin.com/in/ismail-majdi-halawa-987aa52ab/">Connect with me on LinkedIn</a>.</p>
+<p align="center"><strong>Interested in applied AI work?</strong><br /><a href="mailto:ismaeelhalawa20003@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ismail-majdi-halawa-987aa52ab/">Connect on LinkedIn</a></p>
