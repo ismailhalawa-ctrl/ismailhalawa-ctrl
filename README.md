@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Ismail Majdi Halawa — Applied AI, Machine Learning and NLP" width="100%" />
+  <img src="./profile-banner.svg" alt="Ismail Halawa — Applied AI, Machine Learning and NLP" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ismail-majdi-halawa-987aa52ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ismailhalawa-ctrl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-172554?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" /></a>
+  <a href="mailto:ismaeelhalawa20003@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ismail" /></a>
 </p>
 
 <p align="center"><strong>Turning unstructured data into useful, evidence-backed insights.</strong></p>
@@ -20,6 +21,10 @@ I'm a **Data Science graduate from Jordan University of Science and Technology**
 - **Open to:** Junior AI Engineer, Junior ML Engineer, and related applied AI roles.
 
 ### Selected projects
+
+**InsightForge AI · Private, in development**  
+A multi-source AI platform that transforms comments, files, repository content, and webpages into structured insights with traceable evidence. It combines multilingual sentiment analysis with a retrieval-augmented assistant that grounds answers in the analyzed data.  
+`Python` `Transformers` `RAG` `FastAPI` `PostgreSQL`
 
 **[SentimentPro →](https://github.com/ismailhalawa-ctrl/SentimentPro-youtube)**  
 YouTube comment analysis for sentiment and audience insights, with a RAG chat over analyzed feedback.  
