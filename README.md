@@ -34,23 +34,23 @@ InsightForge AI brings scattered feedback and content into one analysis workflow
 
 ### ▣ Selected public projects
 
-**[SentimentPro ↗](https://github.com/ismailhalawa-ctrl/SentimentPro-youtube)**  
+**[SentimentPro →](https://github.com/ismailhalawa-ctrl/SentimentPro-youtube)**  
 Analyzes YouTube comments to surface sentiment and audience insights. Includes a RAG chat over analyzed feedback.  
 `Python` · `Transformers` · `NLP` · `RAG`
 
-**[YouTube Sentiment Analyzer ↗](https://github.com/ismailhalawa-ctrl/YouTube-Sentiment-Analyzer)**  
+**[YouTube Sentiment Analyzer →](https://github.com/ismailhalawa-ctrl/YouTube-Sentiment-Analyzer)**  
 An earlier Streamlit prototype for multilingual comment analysis using MARBERT and RoBERTa.  
 `Python` · `Streamlit` · `SQL Server`
 
-**[Credit Card Fraud Detection ↗](https://github.com/ismailhalawa-ctrl/Credit-Card-Froud-Detection)**  
+**[Credit Card Fraud Detection →](https://github.com/ismailhalawa-ctrl/Credit-Card-Froud-Detection)**  
 Explores anomaly detection on imbalanced transaction data with clustering and outlier methods.  
 `Python` · `scikit-learn` · `PCA`
 
-**[Mall Customer Analysis ↗](https://github.com/ismailhalawa-ctrl/Mall-Customer-Analysis)**  
+**[Mall Customer Analysis →](https://github.com/ismailhalawa-ctrl/Mall-Customer-Analysis)**  
 Segments customers using clustering and dimensionality reduction to explore spending patterns.  
 `Python` · `K-Means` · `DBSCAN`
 
-**[Explore all public repositories ↗](https://github.com/ismailhalawa-ctrl?tab=repositories)**
+**[Explore all public repositories →](https://github.com/ismailhalawa-ctrl?tab=repositories)**
 
 ### ⌘ Skills & tools
 
