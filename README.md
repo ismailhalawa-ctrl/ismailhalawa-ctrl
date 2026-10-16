@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismail-majdi-halawa-987aa52ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ismail-halawa-987aa52ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ismailhalawa-ctrl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-172554?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" /></a>
   <a href="mailto:ismaeelhalawa20003@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ismail" /></a>
+  <a href="https://www.instagram.com/ismail_halawa04/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center"><strong>Turning unstructured data into useful, evidence-backed insights.</strong></p>
@@ -56,10 +57,13 @@ Segments customers using clustering and dimensionality reduction to explore spen
 
 | Area | Tools and methods |
 | --- | --- |
-| AI & NLP | PyTorch, Hugging Face Transformers, multilingual sentiment analysis, RAG |
-| Data & ML | Python, SQL, pandas, NumPy, scikit-learn, Jupyter |
-| Application development | FastAPI, PostgreSQL |
+| AI & machine learning | Artificial Intelligence, Machine Learning, PyTorch, scikit-learn, clustering, anomaly detection |
+| NLP & text analysis | Natural Language Processing, text classification, MARBERT, multilingual sentiment analysis, Hugging Face Transformers |
+| Retrieval & generative AI | Retrieval-Augmented Generation (RAG), semantic search, evidence-grounded answers |
+| Data processing & analysis | Python, SQL, pandas, NumPy, Jupyter, data preparation, exploratory analysis |
+| APIs & application tools | FastAPI, RESTful APIs, PostgreSQL, Streamlit, SQL Server |
+| Analytics & reporting | Excel, Power BI, data visualization |
 
 ---
 
-<p align="center"><strong>Interested in applied AI work?</strong><br /><a href="mailto:ismaeelhalawa20003@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ismail-majdi-halawa-987aa52ab/">Connect on LinkedIn</a></p>
+<p align="center"><strong>Interested in applied AI work?</strong><br /><a href="mailto:ismaeelhalawa20003@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ismail-halawa-987aa52ab/">Connect on LinkedIn</a> · <a href="https://www.instagram.com/ismail_halawa04/">Instagram</a></p>
