@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Ismail Majdi Halawa</title>
+  <desc id="desc">Applied AI, Machine Learning, and Natural Language Processing</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07162b"/>
+      <stop offset="0.55" stop-color="#102c4f"/>
+      <stop offset="1" stop-color="#0b3d54"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#a5d9ef" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="1000" height="250" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="250" fill="url(#background)"/>
+    <rect width="1000" height="250" fill="url(#grid)"/>
+    <circle cx="842" cy="124" r="168" fill="none" stroke="#67e8f9" stroke-opacity="0.17" stroke-width="1.5"/>
+    <circle cx="842" cy="124" r="124" fill="none" stroke="#67e8f9" stroke-opacity="0.25" stroke-width="1.5"/>
+    <circle cx="842" cy="124" r="80" fill="none" stroke="#a5b4fc" stroke-opacity="0.42" stroke-width="1.5"/>
+    <path d="M714 102 L780 58 L858 90 L931 43 M754 179 L820 137 L890 176 L976 124 M780 58 L820 137 L858 90 L890 176 M714 102 L754 179" fill="none" stroke="#9ee8f7" stroke-opacity="0.44" stroke-width="1.5"/>
+    <g fill="#8ee7f5">
+      <circle cx="714" cy="102" r="4"/><circle cx="780" cy="58" r="4"/><circle cx="858" cy="90" r="4"/>
+      <circle cx="931" cy="43" r="4"/><circle cx="754" cy="179" r="4"/><circle cx="820" cy="137" r="5"/>
+      <circle cx="890" cy="176" r="4"/><circle cx="976" cy="124" r="4"/>
+    </g>
+    <rect x="48" y="48" width="5" height="154" rx="2.5" fill="url(#accent)"/>
+    <text x="77" y="91" fill="#9ee8f7" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">DATA SCIENCE · APPLIED AI</text>
+    <text x="73" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700">Ismail Majdi Halawa</text>
+    <text x="77" y="188" fill="#cbdcf1" font-family="Arial, Helvetica, sans-serif" font-size="21">Machine Learning  /  NLP  /  Evidence-grounded AI</text>
+  </g>
+</svg>
