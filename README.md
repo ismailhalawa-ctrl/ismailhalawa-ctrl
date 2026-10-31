@@ -53,6 +53,21 @@ Segments customers using clustering and dimensionality reduction to explore spen
 
 **[Explore all public repositories →](https://github.com/ismailhalawa-ctrl?tab=repositories)**
 
+### ◇ More work to explore
+
+| Area | Project | What it explores |
+| --- | --- | --- |
+| Security analytics | [Endpoint Log Anomaly Detection](https://github.com/ismailhalawa-ctrl/Endpoint-Log-Anomaly-Detection-Bot) | Behavioral features, unsupervised risk grouping, outlier scores, and graph analysis |
+| Regression | [Ames Housing](https://github.com/ismailhalawa-ctrl/Ames-Housing-Analysis-) | House-price model comparisons and prediction errors |
+| Classification | [Adult Income](https://github.com/ismailhalawa-ctrl/Adult-Income-Analysis) | Census features and classification experiments |
+| Exploratory analysis | [911 Calls](https://github.com/ismailhalawa-ctrl/911-Calls-Analysis-) · [Olympic Games](https://github.com/ismailhalawa-ctrl/Olympics-Analysis-Project-) | Time patterns, grouped records, and visual interpretation |
+| Business intelligence | [Power BI Projects](https://github.com/ismailhalawa-ctrl/Power-Bi-Projects) | Customer churn and Jordan food-price reports |
+| Web applications | [Student Management](https://github.com/ismailhalawa-ctrl/Students-Management) | ASP.NET Core MVC, EF Core, Identity, and SQL Server |
+| Object-oriented design | [Library Management](https://github.com/ismailhalawa-ctrl/Library-Managment-System) | C# interfaces, inheritance, borrowing state, and fee rules |
+| Delivery workflows | [DevOps Calculator](https://github.com/ismailhalawa-ctrl/project-1-cloud) | Flask, Docker, and CI pipeline practice |
+
+**[Browse the notebook collection →](https://github.com/ismailhalawa-ctrl/Data-Analysis-Projects)**
+
 ### ⌘ Skills & tools
 
 | Area | Tools and methods |
@@ -67,3 +82,4 @@ Segments customers using clustering and dimensionality reduction to explore spen
 ---
 
 <p align="center"><strong>Interested in applied AI work?</strong><br /><a href="mailto:ismaeelhalawa20003@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ismail-halawa-987aa52ab/">Connect on LinkedIn</a> · <a href="https://www.instagram.com/ismail_halawa04/">Instagram</a></p>
+
